@@ -1,0 +1,6 @@
+#Hero {
+    background-image: url("/public/hgghh-min.jpg");
+    background-position: center;
+    background-size: cover; 
+ object-fit: cover;
+}
